@@ -12,5 +12,8 @@
     "**/*.d.ts",
     "**/*.ts"
   ],
-  "exclude": ["./build"]
+  "exclude": [
+    "./build",
+    "./test"
+  ]
 }
